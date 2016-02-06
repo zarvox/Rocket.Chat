@@ -197,6 +197,7 @@ rocketchat:version@1.0.0
 rocketchat:webrtc@0.0.1
 rocketchat:wordpress@0.0.1
 routepolicy@1.0.6
+sandstorm:notification@0.0.1
 service-configuration@1.0.5
 session@1.1.1
 sha@1.0.4
